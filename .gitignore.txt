@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Raw data
+data/*.xlsx
+data/*.csv
+
+# Environment files
+.env
+
+# Python virtual environment
+venv/
+.venv/
